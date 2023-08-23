@@ -1,3 +1,5 @@
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<h1>HI</h1>
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
