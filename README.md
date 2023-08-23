@@ -1,10 +1,3 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-<h1>HI</h1>
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
-<summary><h2>Step 3: Add a code example</h2></summary>
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
